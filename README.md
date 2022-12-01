@@ -7,5 +7,5 @@ A text-editor PWA that features data persistence. It is also a downloadable app 
 https://still-island-89707.herokuapp.com/
 
 ## Screenshot
-![screenshot 1 of project](assets/screenshots/ss1.png)
-![screenshot 2 of project](assets/screenshots/ss1.png)
+![screenshot 1 of project](assets/ss1.png)
+![screenshot 2 of project](assets/ss2.png)
